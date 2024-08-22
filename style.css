@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    font-family: "Hind Siliguri",sans-serif;
+}
+
+.left-logo {
+    display: flex;
+    align-items: center;
+}
+
+.text-logo {
+    padding-left: 12px;
+}
+
+.list {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    margin: 0;
+}
+
+.list-item {
+    font-size: 18px;
+    color: #292830;
+    font-weight: 400;
+    cursor: pointer;
+    border-bottom: 1px solid transparent;
+}
+
+.list-item:hover{
+    border-bottom: 1px solid red;
+}
+
+.btn-right {
+    border: 1px solid #ff7235;
+    background: transparent;
+    border-radius: 8px;
+    color: #ff7235;
+    font-style: 18px;
+    padding: 15px 17px;
+}
+
+.btn-right:hover {
+    background: #ff7235;
+    color: #fff;
+}
+
+header {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-bottom: 100px;
+}
+
+
+.text-header {
+    font-size: 86px;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
+.text-info1 {
+    font-style: 24px;
+    color: #BDBDBD;
+    padding-bottom: 10px;
+}
+
+.btn-header {
+    background: #ff7235;
+    border: none;
+    font-style: 25px;
+    color: #fff;
+    padding: 18px 24px;
+    border-radius: 8px;
+}
+
+.btn-header:hover {
+    background: transparent;
+    border: 1px solid #ff7235;
+    color: #ff7235;
+}
+
+.section1{
+    padding-top: 100px;
+    background: #ff7235;
+}
+
+.text-header1{
+  font-size: 22px;
+  font-weight: 400;
+  color:#BDBDBD;
+  padding-top: 100px;
+}
+
+.text-info3{
+    width: 540px;
+    height: 288px;
+   font-weight: 700;
+   font-size: 96px;
+   line-height: 96px;
+   color: #292830;
+   
+}
+
+.text{
+    width: 540px;
+    height: 117px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38.81px;
+    color: #BDBDBD;
+    padding-bottom: 10px;
+}
+
+.text2{
+    color: #ff7235;
+    border: 1px solid #ff7235;
+    background: transparent;
+    font-style: 24px;
+    padding: 1px 1px;
+    border-radius: 8px;
+}
+
+.text2:hover {
+    background: #ff7235;
+    color: #fff;
+}
+
+.text-header2{
+    width: 163px;
+    height: 36px;
+    top: 142px;
+    left: 735px;
+    font-size: 22px;
+    font-weight: 400;
+    color: #BDBDBD;
+}
+
+.text-info6{
+     width: 540px;
+     height: 288px;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 96px;
+    color: #292830;
+}
+
+.text3{
+    width: 540px;
+    height: 117px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38.81px;
+    color: #BDBDBD;
+    padding-bottom: 10px;
+}
+
+.button-text{
+    font-style: 24px;
+    color: #ff7235;
+    border: 1px solid #ff7235;
+    background: transparent;
+    padding: 1px 1px;
+    border-radius: 8px;
+}
+
+.button-text:hover {
+    background: #ff7235;
+    color: #fff;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+}
+
+.text-header3 {
+    font-size: 14px;
+    color: #888;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    letter-spacing: 1px;
+}
+
+.text-info7 {
+    width: 540px;
+    height: 288px;
+    font-size: 96px;
+    color: #333;
+    line-height: 96px;
+    margin-bottom: 30px;
+}
+
+.text4 {
+    width: 540px;
+    height: 117px;
+    font-size: 24px;
+    color: #888;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.button-text1 {
+    font-style: 24px;
+    color: #ff7235;
+    border: 1px solid #ff7235;
+    background: transparent;
+    padding: 1px 1px;
+    border-radius: 8px;
+}
+
+.button-text1:hover{
+    background: #ff7235;
+    color: #fff;
+}
+
